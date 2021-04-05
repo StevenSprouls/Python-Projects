@@ -83,7 +83,7 @@ def main():
         if option.lower() == "play":
             return game()
         elif option.lower() == "view credits":
-            print("Created by: Gennaro Napolitano and Mario DeCristofaro")
+            print("Created by: Steve Sprouls")
         elif option.lower() == "quit":
             exit()
         else:
